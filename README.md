@@ -1,36 +1,39 @@
 # <span style="color: pink;"> Hi, I'm Maud !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maudlecerf)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maud.lecerf@student.ie.edu)
 
-## 👋 About Me 👋
+
+## 🥐 About Me 🥐
 Hello! I am Maud, a student in Big Data and Business Analytics with a passion for hospitality. My goal is to bring the world of data & AI to the hospitality industry.  Welcome to my GitHub profile where I share my projects, contributions, and experiences.
 
-## 🛠️ Skills and Tools 🛠️
-- **Languages:** SQL | Python | HTML
-- **Soft Skills:** Leadership | Organization | Team Spirit
-- **Other Skills & Tools:** Excel proficiency | Power BI | SPSS
+## 🧩 Skills and Tools 🧩
+- **Languages:**
 
-## 📜 Certifications 📜
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- **Soft Skills:**
+
+![Leadership](https://img.shields.io/badge/Leadership-FFA500?style=for-the-badge&logo=leadership&logoColor=white)
+![Organization](https://img.shields.io/badge/Organization-008000?style=for-the-badge&logo=organization&logoColor=white)
+![Team Spirit](https://img.shields.io/badge/Team%20Spirit-FFD700?style=for-the-badge&logo=team-spirit&logoColor=white)
+- **Other Skills & Tools:**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-3F5E9A?style=for-the-badge&logo=spss&logoColor=white)
+
+## 🪩 Projects 🪩
+- **Data strategy for Business:** Developpment of a ML and data strategy for a sugar company in latin america to allow business improvement through predictions of demand.
+- **Business & Tech Startegy for Hospitality:** Development of a complete business strategy for a group lodging in Switzerland, with implementation of technologic innovation in hospitality, and development of a website.
+
+## 🔖 Certifications 🔖
 - **Real Estate Finance:** Alpha Sigma Gamma Honor | Delivered by the American Real Estate Society
 - **Hospitality:** Certification in Hotel Industry Analytics | Delivered by American Hotel & Lodging Association
-
-
-## 🎓 Educational Background 🎓
-### Master in Big Data and Business Analytics 📊
-- **Institution:** IE School of Science and Technology
-- **Graduation Year:** 2025
-
-### Bachelor of Sciences in International Hospitality Management  🏨
-- **Institution:** EHL Hospitality Business School
-- **Graduation Year:** 2024
-- **Achievements:** Graduated with honors
-
-
 
 
 
 
 ---
 
-Thank you for visiting my profile! Feel free to connect with me on LinkedIn or check out my portfolio for more information.
+Thank you for visiting my profile! Connect with me on Linkedin to see my latest updates !
