@@ -24,9 +24,9 @@ Hello! I am Maud, a student in Big Data and Business Analytics with a passion fo
 ![SPSS](https://img.shields.io/badge/SPSS-3F5E9A?style=for-the-badge&logo=spss&logoColor=white)
 
 ## 🪩 Projects 🪩
+- **Retail & Consumer Goods Analysis:** Analysis of POS data within the *AI in Retail and Consumer Goods* course within the Master in Business Analytics and Data Science at IE university. 
 - **Sustainability Datathon:** Team Project, given by IE School of Science and Technology and EDP Renewables | Created a detailed Exploratory Data Analysis based on 4 datasets with 6 years of half-hourly data. | Developped a ML model to predict energy data. | Built a business strategy for the company based on the analysis and forecasting results. 
 - **Data strategy for Business:** Developpment of a ML and data strategy for a sugar company in latin america to allow business improvement through predictions of demand.
-- **Business & Tech Startegy for Hospitality:** Development of a complete business strategy for a group lodging in Switzerland, with implementation of technologic innovation in hospitality, and development of a website.
 
 ## 🔖 Certifications 🔖
 - **Real Estate Finance:** Alpha Sigma Gamma Honor | Delivered by the American Real Estate Society
