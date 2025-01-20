@@ -1,12 +1,18 @@
-# <span style="color: pink;"> Hi, I'm Maud !
+# <span style="color: pink;"> Hello, I'm Maud !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maudlecerf)
 
 
 ## 🥐 About Me 🥐
-Hello! I am Maud, a student in Big Data and Business Analytics with a passion for hospitality and service excellence. My goal is to bring the world of data & AI to the hospitality, luxury and retail industries.  Welcome to my GitHub profile where I share my projects, contributions, and experiences.
+Hello! I am Maud, a student in Business Analytics and Big Data with a passion for hospitality, luxury and mostly **service excellence**. My goal is to bring the world of **data & AI** to the hospitality, luxury and retail industries.  Welcome to my GitHub profile where I share my projects, contributions, and experiences.
 
-## 🧩 Skills and Tools 🧩
+## 🪩 Projects 🪩
+- **Country Risk Predictions:** Within the *Risk & Fraud* course  in the Master in Business Analytics and Data Science at IE university. Creation of a classification model to predict rating (based on S&P letter rating) for different countries and a time series modeling to predict credit risk for 1 country. 
+- **Retail & Consumer Goods Analysis:** Analysis of POS data within the *AI in Retail and Consumer Goods* course in the Master in Business Analytics and Data Science at IE university. 
+- **Sustainability Datathon:** Team Project, given by IE School of Science and Technology and EDP Renewables | Created a detailed Exploratory Data Analysis based on 4 datasets with 6 years of half-hourly data. | Developped a ML model to predict energy data. | Built a business strategy for the company based on the analysis and forecasting results. 
+- **Data strategy for Business:** Developpment of a ML and data strategy for a sugar company in latin america to allow business improvement through predictions of demand.
+
+- ## 🧩 Skills and Tools 🧩
 - **Languages:**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
@@ -23,16 +29,9 @@ Hello! I am Maud, a student in Big Data and Business Analytics with a passion fo
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-3F5E9A?style=for-the-badge&logo=spss&logoColor=white)
 
-## 🪩 Projects 🪩
-- **Retail & Consumer Goods Analysis:** Analysis of POS data within the *AI in Retail and Consumer Goods* course within the Master in Business Analytics and Data Science at IE university. 
-- **Sustainability Datathon:** Team Project, given by IE School of Science and Technology and EDP Renewables | Created a detailed Exploratory Data Analysis based on 4 datasets with 6 years of half-hourly data. | Developped a ML model to predict energy data. | Built a business strategy for the company based on the analysis and forecasting results. 
-- **Data strategy for Business:** Developpment of a ML and data strategy for a sugar company in latin america to allow business improvement through predictions of demand.
-
 ## 🔖 Certifications 🔖
 - **Real Estate Finance:** Alpha Sigma Gamma Honor | Delivered by the American Real Estate Society
 - **Hospitality:** Certification in Hotel Industry Analytics | Delivered by American Hotel & Lodging Association
-
-
 
 
 ---
