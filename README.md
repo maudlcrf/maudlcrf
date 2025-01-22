@@ -29,11 +29,6 @@ Hello! I am Maud, a student in Business Analytics and Big Data with a passion fo
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-3F5E9A?style=for-the-badge&logo=spss&logoColor=white)
 
-## 🔖 Certifications 🔖
-- **Real Estate Finance:** Alpha Sigma Gamma Honor | Delivered by the American Real Estate Society
-- **Hospitality:** Certification in Hotel Industry Analytics | Delivered by American Hotel & Lodging Association
-
-
 ---
 
 Thank you for visiting my profile! Connect with me on Linkedin to see my latest updates !
