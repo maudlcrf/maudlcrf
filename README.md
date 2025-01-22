@@ -3,15 +3,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maudlecerf)
 
 
-## 🥐 About Me 🥐
+##  About Me 
 Hello! I am Maud, a student in Business Analytics and Big Data with a passion for hospitality, luxury and mostly **service excellence**. My goal is to bring the world of **data & AI** to the hospitality, luxury and retail industries. I also lovce coding, so welcome to my GitHub profile where I share my projects, contributions, and experiences.
 
-## 🪩 Projects 🪩
-- **Object Detection Modeling:**  Within the *Deep Learning* course  in the Master in Business Analytics and Data Science at IE university. Creation of a model for object detection. [Access the project here](https://github.com/maudlcrf/deep_learning)
-- **Country Risk Predictions:** Within the *Risk & Fraud Analytics* course  in the Master in Business Analytics and Data Science at IE university. Creation of a classification model to predict rating (based on S&P letter rating) for different countries and a time series modeling to predict credit risk for 1 country. [Access the project here](github.com/maudlcrf/risk_and_fraud)
-- **Retail & Consumer Goods Analysis:** Analysis of POS data within the *AI in Retail and Consumer Goods* course in the Master in Business Analytics and Data Science at IE university. 
-- **Sustainability Datathon:** Team Project, given by IE School of Science and Technology and EDP Renewables | Created a detailed Exploratory Data Analysis based on 4 datasets with 6 years of half-hourly data. | Developped a ML model to predict energy data. | Built a business strategy for the company based on the analysis and forecasting results. [Access the project here](https://github.com/luisgarciaperez/Datathon_EDP_CNN)
-- **Data strategy for Business:** Developpment of a ML and data strategy for a sugar company in latin america to allow business improvement through predictions of demand.
+##  Projects 
+- **🍜 Object Detection Modeling 🍜:** Within the *Deep Learning* course  in the Master in Business Analytics and Data Science at IE university. Creation of a model for object detection. [Access the project here](https://github.com/maudlcrf/deep_learning)
+- **🌐 Country Risk Predictions 🌐:** Within the *Risk & Fraud Analytics* course  in the Master in Business Analytics and Data Science at IE university. Creation of a classification model to predict rating (based on S&P letter rating) for different countries and a time series modeling to predict credit risk for 1 country. [Access the project here](github.com/maudlcrf/risk_and_fraud)
+- **🛍️ Retail & Consumer Goods Analysis 🛍️:** Analysis of POS data within the *AI in Retail and Consumer Goods* course in the Master in Business Analytics and Data Science at IE university. [Access the project here](github.com/maudlcrf/rcg)
+- **🔋Sustainability Datathon 🔋:** Team Project, given by IE School of Science and Technology and EDP Renewables | Created a detailed Exploratory Data Analysis based on 4 datasets with 6 years of half-hourly data. | Developped a ML model to predict energy data. | Built a business strategy for the company based on the analysis and forecasting results. [Access the project here](https://github.com/luisgarciaperez/Datathon_EDP_CNN)
 
 - ## 🧩 Skills and Tools 🧩
 - **Languages:**
