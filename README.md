@@ -12,7 +12,7 @@ Hello! I am Maud, a student in Business Analytics and Big Data with a passion fo
 - **🛍️ Retail & Consumer Goods Analysis 🛍️:** Analysis of POS data within the *AI in Retail and Consumer Goods* course in the Master in Business Analytics and Data Science at IE university. [Access the project here](github.com/maudlcrf/rcg)
 - **🔋Sustainability Datathon 🔋:** Team Project, given by IE School of Science and Technology and EDP Renewables | Created a detailed Exploratory Data Analysis based on 4 datasets with 6 years of half-hourly data. | Developped a ML model to predict energy data. | Built a business strategy for the company based on the analysis and forecasting results. [Access the project here](https://github.com/luisgarciaperez/Datathon_EDP_CNN)
 
-- ## Skills and Tools
+## Skills and Tools
 - **Languages:**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
