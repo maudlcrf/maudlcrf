@@ -4,7 +4,7 @@
 
 
 ##  About Me 
-Hello! I am Maud, a student in Business Analytics and Big Data with a passion for hospitality, luxury and mostly **service excellence**. My goal is to bring the world of **data & AI** to the hospitality, luxury and retail industries. I also lovce coding, so welcome to my GitHub profile where I share my projects, contributions, and experiences.
+Hello! I am Maud, a student in Business Analytics and Big Data with a passion for hospitality, luxury and mostly **service excellence**. My goal is to bring the world of **data & AI** to the hospitality, luxury and retail industries. I also love coding, so welcome to my GitHub profile where I share my projects, contributions, and experiences.
 
 ##  Projects 
 - **🍜 Object Detection Modeling 🍜:** Within the *Deep Learning* course  in the Master in Business Analytics and Data Science at IE university. Creation of a model for object detection. [Access the project here](https://github.com/maudlcrf/deep_learning)
