@@ -23,7 +23,7 @@ Hello! I am Maud, a student in Business Analytics and Big Data with a passion fo
 
 - **Soft Skills:**
 
-  ![Leadership](https://img.shields.io/badge/Leadership-FFA500?style=for-the-badge&logo=leadership&logoColor=white)   ![Organization](https://img.shields.io/badge/Organization-008000?style=for-the-badge&logo=organization&logoColor=white)  ![Team Spirit](https://img.shields.io/badge/Team%20Spirit-FFD700?style=for-the-badge&logo=team-spirit&logoColor=white)   ![Client Oriented](https://img.shields.io/badge/Client%20Oriented-00CED1?style=for-the-badge&logo=customer-service&logoColor=white)  
+  ![Leadership](https://img.shields.io/badge/Leadership-FFA500?style=for-the-badge&logo=leadership&logoColor=white)   ![Organization](https://img.shields.io/badge/Organization-008000?style=for-the-badge&logo=organization&logoColor=white)  ![Team Spirit](https://img.shields.io/badge/Team%20Spirit-FFD700?style=for-the-badge&logo=team-spirit&logoColor=white)   ![Client Oriented](https://img.shields.io/badge/Client%20Centered-FFC0CB?style=for-the-badge&logo=customer-service&logoColor=white&color=FF69B4)  )  
 
 - **Microsoft Suite:**
 
@@ -31,7 +31,9 @@ Hello! I am Maud, a student in Business Analytics and Big Data with a passion fo
 
 - **Google Suite:**
 
-  ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)  ![Google Slides](https://img.shields.io/badge/Google%20Slides-FFBB00?style=for-the-badge&logo=google-slides&logoColor=white)  ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)  ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)  ![Google Tag](https://img.shields.io/badge/Google%20Tag-4285F4?style=for-the-badge&logo=googletagmanager&logoColor=white)
+  ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)  ![Google Slides](https://img.shields.io/badge/Google%20Slides-FFBB00?style=for-the-badge&logo=google-slides&logoColor=white)  ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white) 
+![Google Tag](https://img.shields.io/badge/Google%20Tag%20Manager-4285F4?style=for-the-badge&logo=googletagmanager&logoColor=white&color=FFD700)  ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-F9AB00?style=for-the-badge&logo=google-analytics&logoColor=white)
+
 
 
 ---
