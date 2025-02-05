@@ -15,19 +15,30 @@ Hello! I am Maud, a student in Business Analytics and Big Data with a passion fo
 ## Skills and Tools
 - **Languages:**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+
 - **Soft Skills:**
 
-![Leadership](https://img.shields.io/badge/Leadership-FFA500?style=for-the-badge&logo=leadership&logoColor=white)
-![Organization](https://img.shields.io/badge/Organization-008000?style=for-the-badge&logo=organization&logoColor=white)
-![Team Spirit](https://img.shields.io/badge/Team%20Spirit-FFD700?style=for-the-badge&logo=team-spirit&logoColor=white)
-- **Other Skills & Tools:**
+  ![Leadership](https://img.shields.io/badge/Leadership-FFA500?style=for-the-badge&logo=leadership&logoColor=white)  
+  ![Organization](https://img.shields.io/badge/Organization-008000?style=for-the-badge&logo=organization&logoColor=white)  
+  ![Team Spirit](https://img.shields.io/badge/Team%20Spirit-FFD700?style=for-the-badge&logo=team-spirit&logoColor=white)  
+  ![Client Oriented](https://img.shields.io/badge/Client%20Oriented-00CED1?style=for-the-badge&logo=customer-service&logoColor=white)  
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-3F5E9A?style=for-the-badge&logo=spss&logoColor=white)
+- **Microsoft Suite:**
+
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+  ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)  
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)  
+
+- **Google Suite:**
+
+  ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)  
+  ![Google Slides](https://img.shields.io/badge/Google%20Slides-FFBB00?style=for-the-badge&logo=google-slides&logoColor=white)  
+  ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)  
+  ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)  
+  ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)  
 
 ---
 
