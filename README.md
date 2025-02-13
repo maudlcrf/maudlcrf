@@ -8,11 +8,14 @@ Hello! I am Maud, a student in Business Analytics and Big Data with a passion fo
 
 ##  Projects 
 
-- **🍜 Object Detection Modeling 🍜:** Within the *Deep Learning* course  in the Master in Business Analytics and Data Science at IE university. Creation of a model for object detection. [Access the project here](https://github.com/maudlcrf/deep_learning)
+-**🐍 CRM Analysis for Luxury Retail Stores 🐍:** Analysis of Store and CRM data to determine strategies and machine learning modeling for each store to meet their budgeted sales. Final project within the IE Master in Business Analytics and Data Science in collaboration with Bvlgari. 
+
+- **🛍️ Retail & Consumer Goods Analysis 🛍️:** Analysis of POS data within the *AI in Retail and Consumer Goods* course in the Master in Business Analytics and Data Science at IE university. Another Analaysis of Liquor Sales in Iowa to predict demand and give business recommendations for investments. [Access the project here](github.com/maudlcrf/rcg)
+
+- **🍜 Object Detection Modeling 🍜:** Within the *Deep Learning* course  in the Master in Business Analytics and Data Science at IE university. Creation of a model for object detection for food with YoloV11. [Access the project here](https://github.com/maudlcrf/deep_learning)
   
 - **🌐 Country Risk Predictions 🌐:** Within the *Risk & Fraud Analytics* course  in the Master in Business Analytics and Data Science at IE university. Creation of a classification model to predict rating (based on S&P letter rating) for different countries and a time series modeling to predict credit risk for 1 country. [Access the project here](github.com/maudlcrf/risk_and_fraud)
-  
-- **🛍️ Retail & Consumer Goods Analysis 🛍️:** Analysis of POS data within the *AI in Retail and Consumer Goods* course in the Master in Business Analytics and Data Science at IE university. Another ANlaysis of Liquor Sales in Iowa to predict demand and give business recommendations for investments. [Access the project here](github.com/maudlcrf/rcg)
+
   
 - **🔋Sustainability Datathon 🔋:** Team Project, given by IE School of Science and Technology and EDP Renewables | Created a detailed Exploratory Data Analysis based on 4 datasets with 6 years of half-hourly data. | Developped a ML model to predict energy data. | Built a business strategy for the company based on the analysis and forecasting results. [Access the project here](https://github.com/luisgarciaperez/Datathon_EDP_CNN)
 
