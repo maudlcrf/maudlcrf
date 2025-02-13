@@ -8,7 +8,7 @@ Hello! I am Maud, a student in Business Analytics and Big Data with a passion fo
 
 ##  Projects 
 
--**🐍 CRM Analysis for Luxury Retail Stores 🐍:** Analysis of Store and CRM data to determine strategies and machine learning modeling for each store to meet their budgeted sales. Final project within the IE Master in Business Analytics and Data Science in collaboration with Bvlgari. 
+- **🐍 CRM Analysis for Luxury Retail Stores 🐍:** Analysis of Store and CRM data to determine strategies and machine learning modeling for each store to meet their budgeted sales. Final project within the IE Master in Business Analytics and Data Science in collaboration with Bvlgari. 
 
 - **🛍️ Retail & Consumer Goods Analysis 🛍️:** Analysis of POS data within the *AI in Retail and Consumer Goods* course in the Master in Business Analytics and Data Science at IE university. Another Analaysis of Liquor Sales in Iowa to predict demand and give business recommendations for investments. [Access the project here](github.com/maudlcrf/rcg)
 
